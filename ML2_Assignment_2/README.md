@@ -1,8 +1,3 @@
-Here is the full **README.md** file in correct markdown format for your project:
-
----
-
-```markdown
 # Heart Disease Classification with PCA
 
 This project demonstrates the process of building and evaluating multiple classification models on a heart disease dataset. It also explores the impact of dimensionality reduction using Principal Component Analysis (PCA) on model performance.
@@ -58,31 +53,3 @@ Each model is trained on the preprocessed dataset, and accuracy is evaluated on 
 ## Results (Before PCA)
 
 The classification models were evaluated based on accuracy:
-
-```
-
-Logistic Regression: 0.8689
-SVM: 0.8689
-Random Forest: 0.8852
-
-```
-
-## Applying PCA
-
-PCA (Principal Component Analysis) is applied to reduce the dimensionality of the feature space while retaining 95% of the variance. Models are retrained on the PCA-transformed data.
-
-## Results (After PCA)
-
-```
-
-Logistic Regression: 0.8525
-SVM: 0.8525
-Random Forest: 0.8525
-
-```
-
-## Observations
-
-- Before PCA, the Random Forest model gave the highest accuracy (≈ 88.5%).
-- After PCA, all models' performance slightly dropped, indicating that PCA may remove features important for classification.
-- However, PCA reduced dimensionality and can be useful in scenarios where model speed or overfitting is a concern.
