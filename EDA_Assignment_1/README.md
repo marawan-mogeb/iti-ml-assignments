@@ -1,10 +1,3 @@
-Here’s a clear and well-organized `README.md` file suitable for your notebook, assuming the notebook is placed inside a folder named `EDA_assignment`.
-
----
-
-### 📁 `EDA_assignment/README.md`
-
-```markdown
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
 This project presents a comprehensive **Exploratory Data Analysis (EDA)** on the Titanic dataset. The goal is to explore, clean, and visualize data patterns to understand factors that affected passenger survival on the Titanic.
@@ -73,23 +66,8 @@ The dataset used is the Titanic passenger manifest, containing features like pas
 
 ---
 
-## 📁 Folder Structure
-
-```
-
 ## 🚀 Tools Used
 - Python (Pandas, Matplotlib, NumPy)
 - Jupyter Notebook
 - Data Visualization Techniques
 
----
-
-## ✍️ Author
-- **Marawan Mogeb Alrahman Fouad**
-
----
-
-## 📌 Objective
-To explore the Titanic dataset, understand the relationships between variables, and identify features that influenced survival — forming a foundation for later machine learning modeling.
-
-```
