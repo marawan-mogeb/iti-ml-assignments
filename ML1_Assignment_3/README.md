@@ -74,9 +74,7 @@ This notebook implements K-Means manually using NumPy.
 ## 📈 Sample Output: Cluster Visualization
 
 ### Income vs Spending Score (k=5)
-![Customer Segments](![alt text](image.png))
+![alt text](image.png))
 
 ### Age vs Income (k=3, custom K-Means)
-![Age-Income Segmentation](![alt text](image-1.png))
-
----
+![alt text](image-1.png))
