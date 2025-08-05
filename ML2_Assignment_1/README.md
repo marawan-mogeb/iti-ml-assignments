@@ -1,9 +1,3 @@
-You're right — the response above **shows the Markdown content** with triple backticks (` ```markdown `), which is useful when **viewing it as code**, but if you want to **see the actual rendered Markdown content**, it should not be inside code blocks.
-
-Below is the **entire `README.md` file in rendered Markdown**, exactly as it should appear:
-
----
-
 # 📊 Clustering Analysis with Hierarchical Clustering and DBSCAN
 
 This repository contains two unsupervised learning tasks using clustering techniques:
